@@ -1,5 +1,6 @@
-public class helloworld {
+public class HelloWorld {
     public static void main(String[] args){
-        System.out.printin_(x:"Hello World");
+        System.out.println("Hello World");
+        System.out.println("Abiyyu");
 }
 }
